@@ -1,0 +1,40 @@
+{
+  "name": "bookmyshow",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@craco/craco": "^6.3.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.8",
+    "react-router-dom": "^5.3.0",
+    "axios": "^0.21.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.2.0",
+    "react-scripts": "4.0.3",
+    "react-slick": "^0.28.1",
+    "slick-carousel": "^1.8.1",
+    "web-vitals": "^1.0.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.3.6",
+    "postcss": "^8.3.8",
+    "tailwindcss": "^2.2.16"
+  },
+  "scripts": {
+    "start": "craco start",
+    "build": "craco build",
+    "test": "craco test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
